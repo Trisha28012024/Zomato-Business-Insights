@@ -8,7 +8,7 @@
 
  ## 🌐 View Live Project
 
- 👉 [View Report](https://zomato-analysis.netlify.app/)
+ 👉 [View Report](https://trisha-project-3.netlify.app/)
  👉 [View Dashboard](https://lookerstudio.google.com/reporting/54eba0b5-ef36-484e-8c48-96c2ff3bbff9)
  ---
 
@@ -85,14 +85,12 @@ D:.
 
 ## 👨‍💻 Developer
 
-**Faisal Khan**
+**Trisha Danole**
 
-- 🌐 [Portfolio](https://khanfaisal.netlify.app)
-- 💻 [GitHub](https://github.com/khanfaisal79960)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/khanfaisal79960)
-- ✍️ [Medium](https://medium.com/@khanfaisal79960)
-- 📷 [Instagram](https://instagram.com/mr._perfect_1004)
+- 🌐 [Portfolio](https://trishadanole.netlify.app)
+- 💻 [GitHub](https://github.com/Trisha28012024)
+- 🔗 [LinkedIn](https://linkedin.com/in/trisha-danole-249860338)
 
 ---
 
-> Crafted with 📊 by Faisal Khan.
+> Crafted with 📊 by Trisha Danole.
